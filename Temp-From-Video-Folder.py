@@ -20,10 +20,9 @@ How to use:
     1. Change inputDir
     2. Run
     3. Draw the ROI of where the script should search for text. Press SPACE 
-    or ENTER when you're done. 
-    
-    
+    or ENTER when you're done.    
 """
+
 import pytesseract
 import cv2
 import matplotlib.pyplot as plt
